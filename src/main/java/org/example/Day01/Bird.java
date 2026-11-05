@@ -1,7 +1,8 @@
-package org.example;
+package org.example.Day01;
+
 //Bird is-a Animal（单继承）且 Bird can-do Flyable（多实现）。
 // Java 只能 extends 一个父类，但能 implements 多个接口——这就是"既是 X 又能做 Y"的表达方式。
-public class Bird extends Animal implements FlyAble{
+public class Bird extends Animal implements FlyAble {
     public Bird(String name, int age) {
         super(name, age);
     }

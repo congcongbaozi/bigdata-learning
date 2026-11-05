@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Day01;
 //接口（能力契约）
 public interface FlyAble {
     // 默认 public abstract

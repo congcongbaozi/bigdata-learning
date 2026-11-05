@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Day01;
 
 //抽象父类，封装+抽象方法
 public abstract class Animal {

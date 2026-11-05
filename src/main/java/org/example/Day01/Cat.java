@@ -1,6 +1,6 @@
-package org.example;
+package org.example.Day01;
 
-public class Cat extends Animal{
+public class Cat extends Animal {
     // ① 必须第一行用 super 调父类构造
     public Cat(String name, int age) {
         super(name, age);
